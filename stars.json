@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "Suyashdwivedi/IIAB_hardware",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "blazegraph/database",
+    "stargazers_count": 615,
+    "open_issues_count": 133,
+    "forks_count": 131
+  },
+  {
+    "full_name": "lucaswerkmeister/m3api",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "lingua-libre/Upload2Commons",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -55,21 +73,21 @@
   },
   {
     "full_name": "OpenRefine/OpenRefine",
-    "stargazers_count": 8309,
-    "open_issues_count": 678,
-    "forks_count": 1520
+    "stargazers_count": 8310,
+    "open_issues_count": 683,
+    "forks_count": 1521
   },
   {
     "full_name": "blancadesal/mwsql",
     "stargazers_count": 3,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "cdr/code-server",
-    "stargazers_count": 47200,
-    "open_issues_count": 333,
-    "forks_count": 3768
+    "stargazers_count": 47260,
+    "open_issues_count": 335,
+    "forks_count": 3776
   },
   {
     "full_name": "Tohaomg/wikipedia_bots",
@@ -160,23 +178,5 @@
     "stargazers_count": 66,
     "open_issues_count": 15,
     "forks_count": 195
-  },
-  {
-    "full_name": "wikimedia/mediawiki-extensions-VisualEditor",
-    "stargazers_count": 69,
-    "open_issues_count": 0,
-    "forks_count": 37
-  },
-  {
-    "full_name": "wikimedia/revscoring",
-    "stargazers_count": 75,
-    "open_issues_count": 12,
-    "forks_count": 48
-  },
-  {
-    "full_name": "wikimedia/WikimediaUI-Style-Guide",
-    "stargazers_count": 81,
-    "open_issues_count": 12,
-    "forks_count": 77
   }
 ]

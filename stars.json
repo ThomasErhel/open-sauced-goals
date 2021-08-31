@@ -1,8 +1,8 @@
 [
   {
     "full_name": "VeryGoodOpenSource/very_good_cli",
-    "stargazers_count": 896,
-    "open_issues_count": 2,
+    "stargazers_count": 905,
+    "open_issues_count": 3,
     "forks_count": 49
   },
   {
@@ -21,7 +21,7 @@
     "full_name": "dart-lang/webcore",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "dart-lang/.github",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "dart-lang/boolean_selector",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -159,7 +159,7 @@
     "full_name": "dart-lang/appengine",
     "stargazers_count": 86,
     "open_issues_count": 22,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "dart-lang/dart_docker",
@@ -169,8 +169,8 @@
   },
   {
     "full_name": "dart-lang/ffi",
-    "stargazers_count": 92,
-    "open_issues_count": 7,
+    "stargazers_count": 93,
+    "open_issues_count": 8,
     "forks_count": 21
   },
   {

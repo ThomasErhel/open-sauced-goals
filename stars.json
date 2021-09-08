@@ -1,7 +1,7 @@
 [
   {
     "full_name": "VeryGoodOpenSource/very_good_cli",
-    "stargazers_count": 943,
+    "stargazers_count": 945,
     "open_issues_count": 3,
     "forks_count": 50
   },
@@ -20,7 +20,7 @@
   {
     "full_name": "dart-lang/webcore",
     "stargazers_count": 5,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
@@ -134,7 +134,7 @@
   {
     "full_name": "dart-lang/json_rpc_2",
     "stargazers_count": 46,
-    "open_issues_count": 9,
+    "open_issues_count": 8,
     "forks_count": 28
   },
   {
@@ -170,7 +170,7 @@
   {
     "full_name": "dart-lang/ffi",
     "stargazers_count": 93,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 21
   },
   {

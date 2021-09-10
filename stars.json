@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "terraform-google-modules/terraform-google-network",
+    "stargazers_count": 182,
+    "open_issues_count": 6,
+    "forks_count": 626
+  },
+  {
     "full_name": "VeryGoodOpenSource/very_good_cli",
-    "stargazers_count": 945,
+    "stargazers_count": 951,
     "open_issues_count": 3,
     "forks_count": 50
   },
@@ -9,7 +15,7 @@
     "full_name": "material-components/material-components-flutter-codelabs",
     "stargazers_count": 169,
     "open_issues_count": 3,
-    "forks_count": 164
+    "forks_count": 163
   },
   {
     "full_name": "dart-lang/site-events",
@@ -170,13 +176,7 @@
   {
     "full_name": "dart-lang/ffi",
     "stargazers_count": 93,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 21
-  },
-  {
-    "full_name": "dart-lang/http_multi_server",
-    "stargazers_count": 19,
-    "open_issues_count": 1,
-    "forks_count": 12
   }
 ]

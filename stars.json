@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "GoogleCloudPlatform/functions-framework-dart",
+    "stargazers_count": 415,
+    "open_issues_count": 30,
+    "forks_count": 31
+  },
+  {
+    "full_name": "subfuzion/dart-flutter-fullstack-demo",
+    "stargazers_count": 35,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
+    "full_name": "thegreenwebfoundation/green-cost-explorer",
+    "stargazers_count": 132,
+    "open_issues_count": 17,
+    "forks_count": 15
+  },
+  {
     "full_name": "GoogleCloudPlatform/region-carbon-info",
     "stargazers_count": 47,
     "open_issues_count": 0,
@@ -20,14 +38,14 @@
   {
     "full_name": "londonappbrewery/flash-chat-flutter",
     "stargazers_count": 138,
-    "open_issues_count": 21,
-    "forks_count": 546
+    "open_issues_count": 20,
+    "forks_count": 547
   },
   {
     "full_name": "raywenderlich/flta-materials",
-    "stargazers_count": 1217,
+    "stargazers_count": 1254,
     "open_issues_count": 1,
-    "forks_count": 500
+    "forks_count": 523
   },
   {
     "full_name": "londonappbrewery/bitcoin-flutter-gold-solution",
@@ -73,7 +91,7 @@
   },
   {
     "full_name": "londonappbrewery/bitcoin-ticker-flutter",
-    "stargazers_count": 36,
+    "stargazers_count": 35,
     "open_issues_count": 3,
     "forks_count": 364
   },
@@ -93,7 +111,7 @@
     "full_name": "londonappbrewery/Clima-Flutter",
     "stargazers_count": 113,
     "open_issues_count": 13,
-    "forks_count": 588
+    "forks_count": 589
   },
   {
     "full_name": "londonappbrewery/BMI-Calculator-Flutter-Completed",
@@ -123,7 +141,7 @@
     "full_name": "londonappbrewery/destini-challenge-starting",
     "stargazers_count": 59,
     "open_issues_count": 14,
-    "forks_count": 540
+    "forks_count": 539
   },
   {
     "full_name": "ubuntu/yaru_icons.dart",
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "aagarwal1012/Animated-Text-Kit",
-    "stargazers_count": 1231,
+    "stargazers_count": 1234,
     "open_issues_count": 25,
     "forks_count": 211
   },
   {
     "full_name": "google/platform.dart",
     "stargazers_count": 64,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 21
   },
   {
     "full_name": "bluefireteam/audioplayers",
-    "stargazers_count": 1196,
-    "open_issues_count": 119,
+    "stargazers_count": 1198,
+    "open_issues_count": 121,
     "forks_count": 534
-  },
-  {
-    "full_name": "londonappbrewery/Xylophone-Flutter-Completed",
-    "stargazers_count": 16,
-    "open_issues_count": 6,
-    "forks_count": 43
-  },
-  {
-    "full_name": "londonappbrewery/xylophone-flutter",
-    "stargazers_count": 82,
-    "open_issues_count": 30,
-    "forks_count": 718
-  },
-  {
-    "full_name": "londonappbrewery/magic-8-ball-flutter",
-    "stargazers_count": 86,
-    "open_issues_count": 7,
-    "forks_count": 631
   }
 ]

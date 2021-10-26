@@ -1,13 +1,31 @@
 [
   {
+    "full_name": "GoogleChromeLabs/first-input-delay",
+    "stargazers_count": 347,
+    "open_issues_count": 5,
+    "forks_count": 62
+  },
+  {
+    "full_name": "GoogleChromeLabs/web-vitals-report",
+    "stargazers_count": 291,
+    "open_issues_count": 4,
+    "forks_count": 22
+  },
+  {
+    "full_name": "Igorbek/typescript-plugin-styled-components",
+    "stargazers_count": 382,
+    "open_issues_count": 25,
+    "forks_count": 30
+  },
+  {
     "full_name": "GoogleCloudPlatform/functions-framework-dart",
-    "stargazers_count": 415,
+    "stargazers_count": 414,
     "open_issues_count": 30,
     "forks_count": 31
   },
   {
     "full_name": "subfuzion/dart-flutter-fullstack-demo",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -27,7 +45,7 @@
     "full_name": "londonappbrewery/todoey-flutter",
     "stargazers_count": 58,
     "open_issues_count": 14,
-    "forks_count": 98
+    "forks_count": 97
   },
   {
     "full_name": "londonappbrewery/state_management-flutter",
@@ -39,13 +57,13 @@
     "full_name": "londonappbrewery/flash-chat-flutter",
     "stargazers_count": 138,
     "open_issues_count": 20,
-    "forks_count": 547
+    "forks_count": 548
   },
   {
     "full_name": "raywenderlich/flta-materials",
-    "stargazers_count": 1273,
+    "stargazers_count": 1317,
     "open_issues_count": 1,
-    "forks_count": 533
+    "forks_count": 550
   },
   {
     "full_name": "londonappbrewery/bitcoin-flutter-gold-solution",
@@ -117,7 +135,7 @@
     "full_name": "londonappbrewery/BMI-Calculator-Flutter-Completed",
     "stargazers_count": 60,
     "open_issues_count": 10,
-    "forks_count": 102
+    "forks_count": 103
   },
   {
     "full_name": "londonappbrewery/Navigation-Flutter-Demo",
@@ -127,9 +145,9 @@
   },
   {
     "full_name": "londonappbrewery/bmi-calculator-flutter",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 16,
-    "forks_count": 649
+    "forks_count": 651
   },
   {
     "full_name": "londonappbrewery/destini-challenge-completed",
@@ -141,7 +159,7 @@
     "full_name": "londonappbrewery/destini-challenge-starting",
     "stargazers_count": 59,
     "open_issues_count": 14,
-    "forks_count": 540
+    "forks_count": 542
   },
   {
     "full_name": "ubuntu/yaru_icons.dart",
@@ -153,30 +171,12 @@
     "full_name": "londonappbrewery/quizzler-flutter-challenge-final",
     "stargazers_count": 47,
     "open_issues_count": 12,
-    "forks_count": 112
+    "forks_count": 114
   },
   {
     "full_name": "londonappbrewery/quizzler-flutter-challenge-starting",
     "stargazers_count": 43,
     "open_issues_count": 2,
     "forks_count": 128
-  },
-  {
-    "full_name": "aagarwal1012/Animated-Text-Kit",
-    "stargazers_count": 1234,
-    "open_issues_count": 25,
-    "forks_count": 211
-  },
-  {
-    "full_name": "google/platform.dart",
-    "stargazers_count": 64,
-    "open_issues_count": 7,
-    "forks_count": 21
-  },
-  {
-    "full_name": "bluefireteam/audioplayers",
-    "stargazers_count": 1199,
-    "open_issues_count": 122,
-    "forks_count": 534
   }
 ]

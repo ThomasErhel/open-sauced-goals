@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "GoogleCloudPlatform/gcping",
+    "stargazers_count": 178,
+    "open_issues_count": 6,
+    "forks_count": 29
+  },
+  {
     "full_name": "apple/swift-driver",
     "stargazers_count": 594,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 117
   },
   {
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "apple/example-package-deckofplayingcards",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 1,
     "forks_count": 54
   },
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "apple/llvm-project",
-    "stargazers_count": 469,
-    "open_issues_count": 39,
-    "forks_count": 204
+    "stargazers_count": 470,
+    "open_issues_count": 38,
+    "forks_count": 205
   },
   {
     "full_name": "apple/indexstore-db",
@@ -55,20 +61,20 @@
   },
   {
     "full_name": "apple/sourcekit-lsp",
-    "stargazers_count": 2420,
+    "stargazers_count": 2422,
     "open_issues_count": 5,
     "forks_count": 177
   },
   {
     "full_name": "apple/swift-format",
-    "stargazers_count": 1369,
+    "stargazers_count": 1370,
     "open_issues_count": 6,
     "forks_count": 99
   },
   {
     "full_name": "apple/swift-syntax",
-    "stargazers_count": 1716,
-    "open_issues_count": 2,
+    "stargazers_count": 1718,
+    "open_issues_count": 4,
     "forks_count": 134
   },
   {
@@ -80,54 +86,54 @@
   {
     "full_name": "apple/swift-tools-support-core",
     "stargazers_count": 264,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 78
   },
   {
     "full_name": "apple/swift-llbuild",
     "stargazers_count": 900,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 184
   },
   {
     "full_name": "apple/swift-package-manager",
-    "stargazers_count": 8550,
-    "open_issues_count": 18,
-    "forks_count": 1100
+    "stargazers_count": 8547,
+    "open_issues_count": 16,
+    "forks_count": 1102
   },
   {
     "full_name": "apple/swift-corelibs-xctest",
-    "stargazers_count": 941,
-    "open_issues_count": 3,
+    "stargazers_count": 942,
+    "open_issues_count": 2,
     "forks_count": 243
   },
   {
     "full_name": "apple/swift-corelibs-libdispatch",
-    "stargazers_count": 2128,
+    "stargazers_count": 2129,
     "open_issues_count": 11,
     "forks_count": 395
   },
   {
     "full_name": "apple/swift-corelibs-foundation",
-    "stargazers_count": 4436,
-    "open_issues_count": 28,
-    "forks_count": 1022
+    "stargazers_count": 4438,
+    "open_issues_count": 29,
+    "forks_count": 1023
   },
   {
     "full_name": "apple/swift-evolution",
-    "stargazers_count": 12828,
+    "stargazers_count": 12835,
     "open_issues_count": 30,
-    "forks_count": 2117
+    "forks_count": 2118
   },
   {
     "full_name": "abishekvashok/cmatrix",
-    "stargazers_count": 2257,
+    "stargazers_count": 2260,
     "open_issues_count": 30,
     "forks_count": 254
   },
   {
     "full_name": "kholia/OSX-KVM",
-    "stargazers_count": 12006,
+    "stargazers_count": 12025,
     "open_issues_count": 1,
     "forks_count": 1209
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "hakimel/reveal.js",
-    "stargazers_count": 57647,
-    "open_issues_count": 670,
-    "forks_count": 15791
-  },
-  {
-    "full_name": "roerohan/CSIWebsite2.0",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 57660,
+    "open_issues_count": 674,
+    "forks_count": 15797
   }
 ]

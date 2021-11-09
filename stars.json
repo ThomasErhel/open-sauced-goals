@@ -1,85 +1,91 @@
 [
   {
+    "full_name": "googledatalab/datalab",
+    "stargazers_count": 965,
+    "open_issues_count": 230,
+    "forks_count": 259
+  },
+  {
     "full_name": "GoogleCloudPlatform/gcping",
     "stargazers_count": 178,
-    "open_issues_count": 7,
+    "open_issues_count": 5,
     "forks_count": 29
   },
   {
     "full_name": "apple/swift-driver",
-    "stargazers_count": 593,
-    "open_issues_count": 8,
+    "stargazers_count": 594,
+    "open_issues_count": 9,
     "forks_count": 117
   },
   {
     "full_name": "apple/swift-se0270-range-set",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "apple/swift-standard-library-preview",
-    "stargazers_count": 228,
+    "stargazers_count": 229,
     "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "apple/example-package-dealer",
-    "stargazers_count": 252,
+    "stargazers_count": 253,
     "open_issues_count": 1,
     "forks_count": 79
   },
   {
     "full_name": "apple/example-package-deckofplayingcards",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 1,
     "forks_count": 54
   },
   {
     "full_name": "apple/example-package-fisheryates",
-    "stargazers_count": 167,
+    "stargazers_count": 168,
     "open_issues_count": 3,
     "forks_count": 52
   },
   {
     "full_name": "apple/example-package-playingcard",
-    "stargazers_count": 243,
+    "stargazers_count": 244,
     "open_issues_count": 1,
     "forks_count": 82
   },
   {
     "full_name": "apple/llvm-project",
-    "stargazers_count": 470,
-    "open_issues_count": 40,
-    "forks_count": 205
+    "stargazers_count": 473,
+    "open_issues_count": 39,
+    "forks_count": 204
   },
   {
     "full_name": "apple/indexstore-db",
     "stargazers_count": 213,
     "open_issues_count": 1,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "apple/sourcekit-lsp",
-    "stargazers_count": 2422,
+    "stargazers_count": 2426,
     "open_issues_count": 5,
     "forks_count": 179
   },
   {
     "full_name": "apple/swift-format",
-    "stargazers_count": 1371,
+    "stargazers_count": 1372,
     "open_issues_count": 6,
     "forks_count": 101
   },
   {
     "full_name": "apple/swift-syntax",
-    "stargazers_count": 1718,
+    "stargazers_count": 1719,
     "open_issues_count": 4,
-    "forks_count": 134
+    "forks_count": 135
   },
   {
     "full_name": "apple/swift-xcode-playground-support",
-    "stargazers_count": 238,
+    "stargazers_count": 239,
     "open_issues_count": 0,
     "forks_count": 73
   },
@@ -91,51 +97,51 @@
   },
   {
     "full_name": "apple/swift-llbuild",
-    "stargazers_count": 900,
+    "stargazers_count": 901,
     "open_issues_count": 0,
     "forks_count": 184
   },
   {
     "full_name": "apple/swift-package-manager",
-    "stargazers_count": 8549,
-    "open_issues_count": 18,
-    "forks_count": 1102
+    "stargazers_count": 8557,
+    "open_issues_count": 19,
+    "forks_count": 1101
   },
   {
     "full_name": "apple/swift-corelibs-xctest",
-    "stargazers_count": 942,
-    "open_issues_count": 3,
+    "stargazers_count": 945,
+    "open_issues_count": 2,
     "forks_count": 243
   },
   {
     "full_name": "apple/swift-corelibs-libdispatch",
-    "stargazers_count": 2130,
+    "stargazers_count": 2131,
     "open_issues_count": 12,
     "forks_count": 395
   },
   {
     "full_name": "apple/swift-corelibs-foundation",
-    "stargazers_count": 4438,
+    "stargazers_count": 4439,
     "open_issues_count": 29,
     "forks_count": 1023
   },
   {
     "full_name": "apple/swift-evolution",
-    "stargazers_count": 12838,
+    "stargazers_count": 12851,
     "open_issues_count": 28,
-    "forks_count": 2118
+    "forks_count": 2117
   },
   {
     "full_name": "abishekvashok/cmatrix",
-    "stargazers_count": 2263,
+    "stargazers_count": 2271,
     "open_issues_count": 30,
-    "forks_count": 254
+    "forks_count": 255
   },
   {
     "full_name": "kholia/OSX-KVM",
-    "stargazers_count": 12036,
+    "stargazers_count": 12068,
     "open_issues_count": 1,
-    "forks_count": 1210
+    "forks_count": 1217
   },
   {
     "full_name": "roerohan/App-Name-Reader",
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "hakimel/reveal.js",
-    "stargazers_count": 57661,
-    "open_issues_count": 674,
-    "forks_count": 15802
   }
 ]

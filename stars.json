@@ -14,7 +14,7 @@
   {
     "full_name": "apple/swift-driver",
     "stargazers_count": 594,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 117
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "apple/swift-standard-library-preview",
-    "stargazers_count": 229,
+    "stargazers_count": 230,
     "open_issues_count": 1,
     "forks_count": 15
   },
@@ -56,7 +56,7 @@
   {
     "full_name": "apple/llvm-project",
     "stargazers_count": 473,
-    "open_issues_count": 39,
+    "open_issues_count": 43,
     "forks_count": 204
   },
   {
@@ -68,20 +68,20 @@
   {
     "full_name": "apple/sourcekit-lsp",
     "stargazers_count": 2426,
-    "open_issues_count": 5,
-    "forks_count": 179
+    "open_issues_count": 6,
+    "forks_count": 180
   },
   {
     "full_name": "apple/swift-format",
     "stargazers_count": 1372,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 101
   },
   {
     "full_name": "apple/swift-syntax",
-    "stargazers_count": 1719,
-    "open_issues_count": 4,
-    "forks_count": 135
+    "stargazers_count": 1720,
+    "open_issues_count": 2,
+    "forks_count": 136
   },
   {
     "full_name": "apple/swift-xcode-playground-support",
@@ -91,20 +91,20 @@
   },
   {
     "full_name": "apple/swift-tools-support-core",
-    "stargazers_count": 264,
-    "open_issues_count": 9,
-    "forks_count": 78
+    "stargazers_count": 265,
+    "open_issues_count": 8,
+    "forks_count": 79
   },
   {
     "full_name": "apple/swift-llbuild",
-    "stargazers_count": 901,
-    "open_issues_count": 0,
-    "forks_count": 184
+    "stargazers_count": 903,
+    "open_issues_count": 1,
+    "forks_count": 186
   },
   {
     "full_name": "apple/swift-package-manager",
-    "stargazers_count": 8557,
-    "open_issues_count": 19,
+    "stargazers_count": 8560,
+    "open_issues_count": 25,
     "forks_count": 1101
   },
   {
@@ -121,25 +121,25 @@
   },
   {
     "full_name": "apple/swift-corelibs-foundation",
-    "stargazers_count": 4439,
+    "stargazers_count": 4438,
     "open_issues_count": 29,
     "forks_count": 1023
   },
   {
     "full_name": "apple/swift-evolution",
-    "stargazers_count": 12851,
-    "open_issues_count": 28,
-    "forks_count": 2117
+    "stargazers_count": 12853,
+    "open_issues_count": 29,
+    "forks_count": 2118
   },
   {
     "full_name": "abishekvashok/cmatrix",
-    "stargazers_count": 2271,
-    "open_issues_count": 30,
+    "stargazers_count": 2273,
+    "open_issues_count": 31,
     "forks_count": 255
   },
   {
     "full_name": "kholia/OSX-KVM",
-    "stargazers_count": 12068,
+    "stargazers_count": 12078,
     "open_issues_count": 1,
     "forks_count": 1217
   },

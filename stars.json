@@ -7,8 +7,8 @@
   },
   {
     "full_name": "GoogleCloudPlatform/gcping",
-    "stargazers_count": 178,
-    "open_issues_count": 5,
+    "stargazers_count": 179,
+    "open_issues_count": 7,
     "forks_count": 30
   },
   {
@@ -56,7 +56,7 @@
   {
     "full_name": "apple/llvm-project",
     "stargazers_count": 475,
-    "open_issues_count": 38,
+    "open_issues_count": 39,
     "forks_count": 204
   },
   {
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "apple/swift-format",
-    "stargazers_count": 1372,
-    "open_issues_count": 5,
+    "stargazers_count": 1374,
+    "open_issues_count": 4,
     "forks_count": 101
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "apple/swift-tools-support-core",
-    "stargazers_count": 269,
+    "stargazers_count": 270,
     "open_issues_count": 7,
     "forks_count": 80
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "apple/swift-package-manager",
-    "stargazers_count": 8560,
-    "open_issues_count": 28,
+    "stargazers_count": 8562,
+    "open_issues_count": 27,
     "forks_count": 1103
   },
   {
@@ -116,30 +116,30 @@
   {
     "full_name": "apple/swift-corelibs-libdispatch",
     "stargazers_count": 2132,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 396
   },
   {
     "full_name": "apple/swift-corelibs-foundation",
-    "stargazers_count": 4440,
-    "open_issues_count": 28,
-    "forks_count": 1023
+    "stargazers_count": 4445,
+    "open_issues_count": 29,
+    "forks_count": 1024
   },
   {
     "full_name": "apple/swift-evolution",
     "stargazers_count": 12859,
-    "open_issues_count": 31,
-    "forks_count": 2119
+    "open_issues_count": 32,
+    "forks_count": 2120
   },
   {
     "full_name": "abishekvashok/cmatrix",
-    "stargazers_count": 2275,
+    "stargazers_count": 2277,
     "open_issues_count": 31,
     "forks_count": 255
   },
   {
     "full_name": "kholia/OSX-KVM",
-    "stargazers_count": 12099,
+    "stargazers_count": 12106,
     "open_issues_count": 2,
     "forks_count": 1222
   },

@@ -1,21 +1,21 @@
 [
   {
     "full_name": "ipfs/go-ipfs",
-    "stargazers_count": 12270,
+    "stargazers_count": 12280,
     "open_issues_count": 1087,
-    "forks_count": 2354
+    "forks_count": 2356
   },
   {
     "full_name": "ipfs/ipfs-desktop",
-    "stargazers_count": 3587,
-    "open_issues_count": 68,
+    "stargazers_count": 3591,
+    "open_issues_count": 69,
     "forks_count": 568
   },
   {
     "full_name": "ipfs/ipfs-cluster",
-    "stargazers_count": 1040,
+    "stargazers_count": 1041,
     "open_issues_count": 118,
-    "forks_count": 197
+    "forks_count": 196
   },
   {
     "full_name": "Anish-Agnihotri/quadratic-funding",
@@ -44,7 +44,7 @@
   {
     "full_name": "gitcoinco/creative",
     "stargazers_count": 99,
-    "open_issues_count": 98,
+    "open_issues_count": 99,
     "forks_count": 173
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "probot/probot",
-    "stargazers_count": 7307,
+    "stargazers_count": 7308,
     "open_issues_count": 30,
     "forks_count": 880
   },
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "gitcoinco/web",
-    "stargazers_count": 1366,
-    "open_issues_count": 427,
+    "stargazers_count": 1367,
+    "open_issues_count": 429,
     "forks_count": 725
   },
   {
     "full_name": "EOSIO/eos",
-    "stargazers_count": 11279,
-    "open_issues_count": 356,
-    "forks_count": 3650
+    "stargazers_count": 11280,
+    "open_issues_count": 353,
+    "forks_count": 3652
   },
   {
     "full_name": "EYBlockchain/fundamental-cost-of-ownership",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "trufflesuite/truffle",
-    "stargazers_count": 11556,
-    "open_issues_count": 466,
-    "forks_count": 1881
+    "stargazers_count": 11563,
+    "open_issues_count": 465,
+    "forks_count": 1882
   },
   {
     "full_name": "OpenZeppelin/openzeppelin-contracts",
-    "stargazers_count": 13440,
-    "open_issues_count": 117,
-    "forks_count": 6786
+    "stargazers_count": 13458,
+    "open_issues_count": 116,
+    "forks_count": 6804
   },
   {
     "full_name": "dob/auctionhouse",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "ethereum/homestead-guide",
-    "stargazers_count": 271,
+    "stargazers_count": 272,
     "open_issues_count": 71,
     "forks_count": 361
   },
   {
     "full_name": "ethereum/wiki",
-    "stargazers_count": 13973,
+    "stargazers_count": 13974,
     "open_issues_count": 34,
-    "forks_count": 2523
+    "forks_count": 2524
   },
   {
     "full_name": "googleapis/nodejs-game-servers",
@@ -164,8 +164,8 @@
   {
     "full_name": "apple/swift-driver",
     "stargazers_count": 594,
-    "open_issues_count": 12,
-    "forks_count": 119
+    "open_issues_count": 11,
+    "forks_count": 120
   },
   {
     "full_name": "apple/swift-se0270-range-set",

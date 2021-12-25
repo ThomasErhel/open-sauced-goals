@@ -7,8 +7,8 @@
   },
   {
     "full_name": "GoogleCloudPlatform/click-to-deploy",
-    "stargazers_count": 580,
-    "open_issues_count": 61,
+    "stargazers_count": 581,
+    "open_issues_count": 64,
     "forks_count": 349
   },
   {
@@ -19,79 +19,79 @@
   },
   {
     "full_name": "jkettmann/graphql-passport",
-    "stargazers_count": 129,
+    "stargazers_count": 130,
     "open_issues_count": 7,
     "forks_count": 17
   },
   {
     "full_name": "Gherciu/react-p5",
-    "stargazers_count": 358,
+    "stargazers_count": 360,
     "open_issues_count": 5,
     "forks_count": 39
   },
   {
     "full_name": "stream-labs/streamlabs-obs",
-    "stargazers_count": 3476,
-    "open_issues_count": 23,
-    "forks_count": 556
+    "stargazers_count": 3481,
+    "open_issues_count": 25,
+    "forks_count": 559
   },
   {
     "full_name": "matteobruni/tsparticles",
-    "stargazers_count": 2701,
-    "open_issues_count": 24,
-    "forks_count": 306
+    "stargazers_count": 2705,
+    "open_issues_count": 23,
+    "forks_count": 307
   },
   {
     "full_name": "adobe/react-spectrum",
-    "stargazers_count": 5885,
-    "open_issues_count": 375,
-    "forks_count": 434
+    "stargazers_count": 5904,
+    "open_issues_count": 349,
+    "forks_count": 436
   },
   {
     "full_name": "GoogleCloudPlatform/community",
-    "stargazers_count": 1545,
-    "open_issues_count": 66,
-    "forks_count": 1475
+    "stargazers_count": 1547,
+    "open_issues_count": 67,
+    "forks_count": 1474
   },
   {
     "full_name": "ChainSafe/lodestar",
-    "stargazers_count": 551,
-    "open_issues_count": 203,
+    "stargazers_count": 554,
+    "open_issues_count": 205,
     "forks_count": 99
   },
   {
     "full_name": "NethermindEth/nethermind",
-    "stargazers_count": 455,
-    "open_issues_count": 187,
+    "stargazers_count": 456,
+    "open_issues_count": 188,
     "forks_count": 146
   },
   {
     "full_name": "prysmaticlabs/prysm",
-    "stargazers_count": 2323,
-    "open_issues_count": 163,
-    "forks_count": 543
+    "stargazers_count": 2325,
+    "open_issues_count": 149,
+    "forks_count": 546
   },
   {
     "full_name": "ConsenSys/teku",
-    "stargazers_count": 325,
-    "open_issues_count": 109,
+    "stargazers_count": 328,
+    "open_issues_count": 104,
     "forks_count": 137
   },
   {
     "full_name": "sigp/lighthouse",
-    "stargazers_count": 1393,
-    "open_issues_count": 142,
-    "forks_count": 298
+    "stargazers_count": 1396,
+    "open_issues_count": 149,
+    "forks_count": 301
   },
   {
     "full_name": "status-im/nimbus-eth2",
     "stargazers_count": 250,
-    "open_issues_count": 167,
+    "open_issues_count": 169,
     "forks_count": 75
   },
   {
     "full_name": "gyf304/ethminer-m1",
-    "stargazers_count": 342,
+    "stargazers_count": 344,
     "open_issues_count": 0,
     "forks_count": 64
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "gitcoinco/browser-extension",
-    "stargazers_count": 48,
+    "stargazers_count": 47,
     "open_issues_count": 50,
     "forks_count": 30
   },
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "ccxt/ccxt",
-    "stargazers_count": 22565,
-    "open_issues_count": 652,
-    "forks_count": 5544
+    "stargazers_count": 22613,
+    "open_issues_count": 654,
+    "forks_count": 5558
   },
   {
     "full_name": "cloudflare/workers-rs",
-    "stargazers_count": 629,
+    "stargazers_count": 630,
     "open_issues_count": 23,
-    "forks_count": 45
+    "forks_count": 44
   },
   {
     "full_name": "cloudflare/worker-examples",
-    "stargazers_count": 618,
+    "stargazers_count": 619,
     "open_issues_count": 34,
     "forks_count": 131
   },
   {
     "full_name": "cloudflare/cloudflared",
-    "stargazers_count": 2074,
-    "open_issues_count": 141,
+    "stargazers_count": 2086,
+    "open_issues_count": 144,
     "forks_count": 272
   },
   {
     "full_name": "cloudflare/wrangler",
-    "stargazers_count": 2637,
-    "open_issues_count": 196,
-    "forks_count": 343
+    "stargazers_count": 2638,
+    "open_issues_count": 194,
+    "forks_count": 342
   }
 ]

@@ -7,93 +7,93 @@
   },
   {
     "full_name": "GoogleCloudPlatform/click-to-deploy",
-    "stargazers_count": 604,
-    "open_issues_count": 86,
+    "stargazers_count": 606,
+    "open_issues_count": 84,
     "forks_count": 365
   },
   {
     "full_name": "benawad/node-graphql-benchmarks",
     "stargazers_count": 506,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 76
   },
   {
     "full_name": "jkettmann/graphql-passport",
-    "stargazers_count": 138,
+    "stargazers_count": 139,
     "open_issues_count": 9,
     "forks_count": 17
   },
   {
     "full_name": "Gherciu/react-p5",
-    "stargazers_count": 432,
+    "stargazers_count": 434,
     "open_issues_count": 7,
     "forks_count": 45
   },
   {
     "full_name": "stream-labs/streamlabs-obs",
-    "stargazers_count": 3712,
-    "open_issues_count": 19,
+    "stargazers_count": 3719,
+    "open_issues_count": 20,
     "forks_count": 601
   },
   {
     "full_name": "matteobruni/tsparticles",
-    "stargazers_count": 3321,
-    "open_issues_count": 31,
-    "forks_count": 394
+    "stargazers_count": 3335,
+    "open_issues_count": 35,
+    "forks_count": 396
   },
   {
     "full_name": "adobe/react-spectrum",
-    "stargazers_count": 6506,
-    "open_issues_count": 385,
-    "forks_count": 512
+    "stargazers_count": 6514,
+    "open_issues_count": 380,
+    "forks_count": 513
   },
   {
     "full_name": "GoogleCloudPlatform/community",
-    "stargazers_count": 1651,
-    "open_issues_count": 54,
-    "forks_count": 1573
+    "stargazers_count": 1654,
+    "open_issues_count": 55,
+    "forks_count": 1577
   },
   {
     "full_name": "ChainSafe/lodestar",
     "stargazers_count": 635,
-    "open_issues_count": 215,
+    "open_issues_count": 219,
     "forks_count": 124
   },
   {
     "full_name": "NethermindEth/nethermind",
-    "stargazers_count": 560,
-    "open_issues_count": 208,
-    "forks_count": 179
+    "stargazers_count": 564,
+    "open_issues_count": 205,
+    "forks_count": 180
   },
   {
     "full_name": "prysmaticlabs/prysm",
-    "stargazers_count": 2522,
-    "open_issues_count": 196,
-    "forks_count": 609
+    "stargazers_count": 2526,
+    "open_issues_count": 208,
+    "forks_count": 610
   },
   {
     "full_name": "ConsenSys/teku",
     "stargazers_count": 393,
-    "open_issues_count": 102,
+    "open_issues_count": 107,
     "forks_count": 162
   },
   {
     "full_name": "sigp/lighthouse",
-    "stargazers_count": 1667,
-    "open_issues_count": 184,
-    "forks_count": 364
+    "stargazers_count": 1672,
+    "open_issues_count": 180,
+    "forks_count": 363
   },
   {
     "full_name": "status-im/nimbus-eth2",
     "stargazers_count": 289,
-    "open_issues_count": 166,
+    "open_issues_count": 175,
     "forks_count": 98
   },
   {
     "full_name": "gyf304/ethminer-m1",
     "stargazers_count": 425,
     "open_issues_count": 1,
-    "forks_count": 98
+    "forks_count": 97
   },
   {
     "full_name": "OpenKudos/python_client",
@@ -129,7 +129,7 @@
     "full_name": "gitcoinco/skunkworks",
     "stargazers_count": 58,
     "open_issues_count": 216,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "gitcoinco/ios",
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "ccxt/ccxt",
-    "stargazers_count": 24570,
-    "open_issues_count": 741,
-    "forks_count": 6028
+    "stargazers_count": 24623,
+    "open_issues_count": 744,
+    "forks_count": 6041
   },
   {
     "full_name": "cloudflare/workers-rs",
-    "stargazers_count": 958,
-    "open_issues_count": 33,
+    "stargazers_count": 970,
+    "open_issues_count": 34,
     "forks_count": 70
   },
   {
     "full_name": "cloudflare/worker-examples",
-    "stargazers_count": 677,
+    "stargazers_count": 681,
     "open_issues_count": 28,
     "forks_count": 150
   },
   {
     "full_name": "cloudflare/cloudflared",
-    "stargazers_count": 2954,
-    "open_issues_count": 182,
-    "forks_count": 345
+    "stargazers_count": 2979,
+    "open_issues_count": 183,
+    "forks_count": 350
   },
   {
     "full_name": "cloudflare/wrangler",
-    "stargazers_count": 2994,
+    "stargazers_count": 3001,
     "open_issues_count": 76,
     "forks_count": 370
   }

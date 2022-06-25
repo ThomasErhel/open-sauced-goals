@@ -7,7 +7,7 @@
   },
   {
     "full_name": "GoogleCloudPlatform/click-to-deploy",
-    "stargazers_count": 611,
+    "stargazers_count": 613,
     "open_issues_count": 94,
     "forks_count": 367
   },
@@ -25,75 +25,75 @@
   },
   {
     "full_name": "Gherciu/react-p5",
-    "stargazers_count": 439,
+    "stargazers_count": 440,
     "open_issues_count": 7,
     "forks_count": 44
   },
   {
     "full_name": "stream-labs/streamlabs-obs",
-    "stargazers_count": 3749,
-    "open_issues_count": 21,
-    "forks_count": 606
+    "stargazers_count": 3751,
+    "open_issues_count": 22,
+    "forks_count": 609
   },
   {
     "full_name": "matteobruni/tsparticles",
-    "stargazers_count": 3425,
+    "stargazers_count": 3434,
     "open_issues_count": 26,
-    "forks_count": 405
+    "forks_count": 407
   },
   {
     "full_name": "adobe/react-spectrum",
-    "stargazers_count": 6585,
-    "open_issues_count": 385,
-    "forks_count": 520
+    "stargazers_count": 6672,
+    "open_issues_count": 387,
+    "forks_count": 523
   },
   {
     "full_name": "GoogleCloudPlatform/community",
-    "stargazers_count": 1663,
-    "open_issues_count": 58,
-    "forks_count": 1586
+    "stargazers_count": 1665,
+    "open_issues_count": 56,
+    "forks_count": 1588
   },
   {
     "full_name": "ChainSafe/lodestar",
-    "stargazers_count": 650,
-    "open_issues_count": 234,
+    "stargazers_count": 652,
+    "open_issues_count": 240,
     "forks_count": 128
   },
   {
     "full_name": "NethermindEth/nethermind",
-    "stargazers_count": 589,
-    "open_issues_count": 216,
-    "forks_count": 183
+    "stargazers_count": 594,
+    "open_issues_count": 224,
+    "forks_count": 184
   },
   {
     "full_name": "prysmaticlabs/prysm",
-    "stargazers_count": 2550,
-    "open_issues_count": 222,
+    "stargazers_count": 2552,
+    "open_issues_count": 220,
     "forks_count": 616
   },
   {
     "full_name": "ConsenSys/teku",
-    "stargazers_count": 400,
-    "open_issues_count": 109,
-    "forks_count": 165
+    "stargazers_count": 401,
+    "open_issues_count": 110,
+    "forks_count": 166
   },
   {
     "full_name": "sigp/lighthouse",
-    "stargazers_count": 1711,
-    "open_issues_count": 191,
-    "forks_count": 366
+    "stargazers_count": 1720,
+    "open_issues_count": 188,
+    "forks_count": 367
   },
   {
     "full_name": "status-im/nimbus-eth2",
     "stargazers_count": 298,
-    "open_issues_count": 172,
+    "open_issues_count": 170,
     "forks_count": 100
   },
   {
     "full_name": "gyf304/ethminer-m1",
     "stargazers_count": 427,
     "open_issues_count": 1,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "OpenKudos/python_client",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "ccxt/ccxt",
-    "stargazers_count": 24880,
-    "open_issues_count": 810,
-    "forks_count": 6091
+    "stargazers_count": 24906,
+    "open_issues_count": 796,
+    "forks_count": 6105
   },
   {
     "full_name": "cloudflare/workers-rs",
-    "stargazers_count": 1009,
+    "stargazers_count": 1016,
     "open_issues_count": 33,
     "forks_count": 72
   },
   {
     "full_name": "cloudflare/worker-examples",
-    "stargazers_count": 698,
+    "stargazers_count": 699,
     "open_issues_count": 29,
     "forks_count": 154
   },
   {
     "full_name": "cloudflare/cloudflared",
-    "stargazers_count": 3091,
-    "open_issues_count": 188,
-    "forks_count": 357
+    "stargazers_count": 3107,
+    "open_issues_count": 186,
+    "forks_count": 358
   },
   {
     "full_name": "cloudflare/wrangler",
-    "stargazers_count": 3037,
-    "open_issues_count": 65,
+    "stargazers_count": 3040,
+    "open_issues_count": 66,
     "forks_count": 371
   }
 ]
